@@ -1,0 +1,114 @@
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+C:\Users\karol\Downloads\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+C:\Users\karol\Downloads\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+C:\Users\karol\Downloads\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+C:\Users\karol\Downloads\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+C:\Users\karol\Downloads\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+C:\Users\karol\Downloads\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt2\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+C:\Users\karol\Downloads\Lotnisko_losowaniesamolotu\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\Projekt5\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+C:\Users\48799\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\3_semestr\Programowanie_obiektowe\ćwiczenia\projekt\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll
+G:\LotniskoProjektFina\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+G:\LotniskoProjektFina\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+G:\LotniskoProjektFina\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+G:\LotniskoProjektFina\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+G:\LotniskoProjektFina\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll
+G:\LotniskoProjektFina\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.sourcelink.json
+G:\LotniskoProjektFinal\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+G:\LotniskoProjektFinal\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+G:\LotniskoProjektFinal\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+G:\LotniskoProjektFinal\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+G:\LotniskoProjektFinal\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.sourcelink.json
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+G:\LotniskoProjektFinal\projekt\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.exe
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.deps.json
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.runtimeconfig.json
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.dll
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\bin\Debug\net8.0\lotnisko.pdb
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.AssemblyInfo.cs
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.dll
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\refint\lotnisko.dll
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.pdb
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\lotnisko.genruntimeconfig.cache
+C:\Users\Max\Desktop\ZZP - Projekt\LotniskoProjektFina-main\projekt\Lotnisko\obj\Debug\net8.0\ref\lotnisko.dll

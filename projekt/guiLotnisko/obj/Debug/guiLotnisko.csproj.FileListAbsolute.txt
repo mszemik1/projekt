@@ -1,0 +1,15 @@
+C:\Users\Alek\Desktop\guiLotnisko\bin\Debug\guiLotnisko.exe.config
+C:\Users\Alek\Desktop\guiLotnisko\bin\Debug\guiLotnisko.exe
+C:\Users\Alek\Desktop\guiLotnisko\bin\Debug\guiLotnisko.pdb
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko.csproj.AssemblyReference.cache
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\MainWindow.g.cs
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\App.g.cs
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko_MarkupCompile.cache
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko_MarkupCompile.lref
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\MainWindow.baml
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko.g.resources
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko.Properties.Resources.resources
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko.csproj.GenerateResource.cache
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko.csproj.CoreCompileInputs.cache
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko.exe
+C:\Users\Alek\Desktop\guiLotnisko\obj\Debug\guiLotnisko.pdb
